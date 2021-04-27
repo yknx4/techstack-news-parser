@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+
+<channel>
+	<title>Android Police &#8211; Android news, reviews, apps, games, phones, tablets</title>
+	<atom:link href="https://www.androidpolice.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.androidpolice.com</link>
+	<description>Looking after everything Android</description>
+	<lastBuildDate>Mon, 26 Apr 2021 22:53:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+<atom:link rel="hub" href="https://pubsubhubbub.appspot.com"/><atom:link rel="hub" href="https://androidpolice.superfeedr.com"/>
+<webfeeds:cover image="https://www.androidpolice.com/wp-content/themes/ap2/images/apple-touch-icon.png" />
+<webfeeds:logo>https://www.androidpolice.com/wp-content/themes/ap2/images/apple-touch-icon.png</webfeeds:logo>
+<webfeeds:icon>https://www.androidpolice.com/wp-content/themes/ap2/images/apple-touch-icon.png</webfeeds:icon>
+<webfeeds:wordmark>https://www.androidpolice.com/wp-content/themes/ap2/images/ap-logo-textonly.svg</webfeeds:wordmark>
+<webfeeds:accentColor>157bda</webfeeds:accentColor>
+	<item>
+		<title>Sony&#039;s Playstation app hits 100 million installs five months after the launch of the PS5</title>
+		<link>https://www.androidpolice.com/2021/04/26/sonys-playstation-app-hits-100-million-installs-five-months-after-the-launch-of-the-ps5/</link>
+					<comments>https://www.androidpolice.com/2021/04/26/sonys-playstation-app-hits-100-million-installs-five-months-after-the-launch-of-the-ps5/#comments</comments>
+		
+		<dc:creator><![CDATA[Will Sattelberg]]></dc:creator>
+		<pubDate>Mon, 26 Apr 2021 22:53:10 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[AT&T]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Motorola]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Sony]]></category>
+		<category><![CDATA[100 million]]></category>
+		<category><![CDATA[100 million downloads]]></category>
+		<category><![CDATA[100 million installs]]></category>
+		<category><![CDATA[100M]]></category>
+		<category><![CDATA[Milestone]]></category>
+		<category><![CDATA[moto]]></category>
+		<category><![CDATA[myAT&T]]></category>
+		<category><![CDATA[playstation]]></category>
+		<category><![CDATA[PlayStation App]]></category>
+		<category><![CDATA[ps5]]></category>
+		<category><![CDATA[sony]]></category>
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=774781</guid>
+
+					<description><![CDATA[Too bad you still can&#039;t buy Sony&#039;s latest console
+<p><a href="https://www.androidpolice.com/wp-content/uploads/2020/10/28/PlayStationIconHero-01.png" class=" no-style"><img loading="lazy" class="alignnone size-hero-size wp-image-719712" src="https://www.androidpolice.com/wp-content/uploads/2020/10/28/PlayStationIconHero-01-728x410.png" alt="" width="728" height="410" srcset="https://www.androidpolice.com/wp-content/uploads/2020/10/28/PlayStationIconHero-01-728x410.png 728w, https://www.androidpolice.com/wp-content/uploads/2020/10/28/PlayStationIconHero-01-329x185.png 329w, https://www.androidpolice.com/wp-content/uploads/2020/10/28/PlayStationIconHero-01-668x376.png 668w, https://www.androidpolice.com/wp-content/uploads/2020/10/28/PlayStationIconHero-01-161x91.png 161w, https://www.androidpolice.com/wp-content/uploads/2020/10/28/PlayStationIconHero-01-217x122.png 217w, https://www.androidpolice.com/wp-content/uploads/2020/10/28/PlayStationIconHero-01.png 1584w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
+<p>Any time an application hits 100 million installs on the Play Store, it's worth taking note. From <a href="https://www.androidpolice.com/2021/04/13/google-podcasts-hits-100-million-installs-on-android-proving-people-might-care-about-rss-after-all/">podcast players</a> to <a href="https://www.androidpolice.com/2021/03/16/disney-passes-100-million-installs-on-the-play-store-after-just-16-months/">streaming services</a>, it's a sign that an app has truly cemented its legacy on Android. It's not often that three apps reach this milestone all at once, but that's exactly what has happened today. PlayStation, myAT&#38;T, and Moto Photo Editor have all earned their respective places in the Play Store hall of fame.</p><div class=clear></div> <a href="https://www.androidpolice.com/2021/04/26/sonys-playstation-app-hits-100-million-installs-five-months-after-the-launch-of-the-ps5/" class="read-more">Read More </a><p><a href='https://www.androidpolice.com/2021/04/26/sonys-playstation-app-hits-100-million-installs-five-months-after-the-launch-of-the-ps5/'>Sony's Playstation app hits 100 million installs five months after the launch of the PS5</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://www.androidpolice.com/2021/04/26/sonys-playstation-app-hits-100-million-installs-five-months-after-the-launch-of-the-ps5/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Anker gets ready for Star Wars Day with R2-D2 limited edition Nebula Capsule II projector</title>
+		<link>https://www.androidpolice.com/2021/04/26/anker-gets-ready-for-star-wars-day-with-r2-d2-limited-edition-nebula-capsule-ii-projector/</link>
+					<comments>https://www.androidpolice.com/2021/04/26/anker-gets-ready-for-star-wars-day-with-r2-d2-limited-edition-nebula-capsule-ii-projector/#respond</comments>
+		
+		<dc:creator><![CDATA[Stephen Schenck]]></dc:creator>
+		<pubDate>Mon, 26 Apr 2021 22:34:04 +0000</pubDate>
+				<category><![CDATA[Android TV]]></category>
+		<category><![CDATA[Anker]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[anker]]></category>
+		<category><![CDATA[anker nebula capsule ii]]></category>
+		<category><![CDATA[nebula capsule ii]]></category>
+		<category><![CDATA[pico projector]]></category>
+		<category><![CDATA[R2-D2]]></category>
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=774750</guid>
+
+					<description><![CDATA[Makes more sense than a C-3PO battery pack
+<p style="text-align: center;"><a href="https://www.androidpolice.com/wp-content/uploads/2021/04/26/nebula-capsule-2-r2d2-outside.jpg" class=" no-style"><img loading="lazy" class="size-hero-size wp-image-774782" src="https://www.androidpolice.com/wp-content/uploads/2021/04/26/nebula-capsule-2-r2d2-outside-728x410.jpg" alt="" width="728" height="410" srcset="https://www.androidpolice.com/wp-content/uploads/2021/04/26/nebula-capsule-2-r2d2-outside-728x410.jpg 728w, https://www.androidpolice.com/wp-content/uploads/2021/04/26/nebula-capsule-2-r2d2-outside-329x185.jpg 329w, https://www.androidpolice.com/wp-content/uploads/2021/04/26/nebula-capsule-2-r2d2-outside-668x376.jpg 668w, https://www.androidpolice.com/wp-content/uploads/2021/04/26/nebula-capsule-2-r2d2-outside-161x91.jpg 161w, https://www.androidpolice.com/wp-content/uploads/2021/04/26/nebula-capsule-2-r2d2-outside-217x122.jpg 217w, https://www.androidpolice.com/wp-content/uploads/2021/04/26/nebula-capsule-2-r2d2-outside.jpg 2000w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
+<p>We're only about a week away from Star Wars Day (May the 4th be with you), but that's not stopping Anker from getting started early with the wonderfully nerdy celebration. A couple years back we checked out the company's <a href="https://www.androidpolice.com/2018/10/26/anker-announces-nebula-capsule-ii-pico-projector-android-tv/">uber-portable Nebula Capsule II projector with Android TV baked right in</a>. Now that stalwart A/V solution is back with a fresh new look, dressing up like everyone's favorite astromech droid for the Nebula Capsule II Star Wars R2-D2 Limited Edition.</p><div class=clear></div> <a href="https://www.androidpolice.com/2021/04/26/anker-gets-ready-for-star-wars-day-with-r2-d2-limited-edition-nebula-capsule-ii-projector/" class="read-more">Read More </a><p><a href='https://www.androidpolice.com/2021/04/26/anker-gets-ready-for-star-wars-day-with-r2-d2-limited-edition-nebula-capsule-ii-projector/'>Anker gets ready for Star Wars Day with R2-D2 limited edition Nebula Capsule II projector</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://www.androidpolice.com/2021/04/26/anker-gets-ready-for-star-wars-day-with-r2-d2-limited-edition-nebula-capsule-ii-projector/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Samsung&#039;s May 2021 security update is already hitting the Galaxy S21 Ultra</title>
+		<link>https://www.androidpolice.com/2021/04/26/samsungs-may-2021-security-update-is-already-hitting-the-galaxy-s21-ultra/</link>
+					<comments>https://www.androidpolice.com/2021/04/26/samsungs-may-2021-security-update-is-already-hitting-the-galaxy-s21-ultra/#comments</comments>
+		
+		<dc:creator><![CDATA[Michael Crider]]></dc:creator>
+		<pubDate>Mon, 26 Apr 2021 22:04:25 +0000</pubDate>
+				<category><![CDATA[Device Updates]]></category>
+		<category><![CDATA[Galaxy S21 Ultra]]></category>
+		<category><![CDATA[Samsung]]></category>
+		<category><![CDATA[galaxy s21 ultra]]></category>
+		<category><![CDATA[may security patch]]></category>
+		<category><![CDATA[samsung software update]]></category>
+		<category><![CDATA[Samsung update]]></category>
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=774773</guid>
+
+					<description><![CDATA[It includes better performance for the camera and Quick Share
+<p><a href="https://www.androidpolice.com/wp-content/uploads/2021/02/01/galaxy-s21-ultra-2.jpg" class=" no-style"><img loading="lazy" class="alignnone wp-image-756293 size-hero-size" src="https://www.androidpolice.com/wp-content/uploads/2021/02/01/galaxy-s21-ultra-2-728x485.jpg" alt="" width="728" height="485" srcset="https://www.androidpolice.com/wp-content/uploads/2021/02/01/galaxy-s21-ultra-2-728x485.jpg 728w, https://www.androidpolice.com/wp-content/uploads/2021/02/01/galaxy-s21-ultra-2-329x219.jpg 329w, https://www.androidpolice.com/wp-content/uploads/2021/02/01/galaxy-s21-ultra-2-668x445.jpg 668w, https://www.androidpolice.com/wp-content/uploads/2021/02/01/galaxy-s21-ultra-2-161x107.jpg 161w, https://www.androidpolice.com/wp-content/uploads/2021/02/01/galaxy-s21-ultra-2-217x145.jpg 217w, https://www.androidpolice.com/wp-content/uploads/2021/02/01/galaxy-s21-ultra-2.jpg 2000w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
+<p>Samsung has been trying to improve its image in software lately, especially when it comes to security updates for Android devices. What better way than to release an update several days early? That's the case with the May security update, which is rolling out to at least some Galaxy S21 models in Europe starting today. <span id="more-774773"></span></p>
+<p><a href="https://www.sammobile.com/news/galaxy-s21-may-2021-security-update-improves-camera-quick-share/">Initially spotted by SamMobile</a>, the hefty 1.15GB security patch is now rolling out to Galaxy S21 Ultra owners in Germany, and possibly other European territories.</p><div class=clear></div> <a href="https://www.androidpolice.com/2021/04/26/samsungs-may-2021-security-update-is-already-hitting-the-galaxy-s21-ultra/" class="read-more">Read More </a><p><a href='https://www.androidpolice.com/2021/04/26/samsungs-may-2021-security-update-is-already-hitting-the-galaxy-s21-ultra/'>Samsung's May 2021 security update is already hitting the Galaxy S21 Ultra</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://www.androidpolice.com/2021/04/26/samsungs-may-2021-security-update-is-already-hitting-the-galaxy-s21-ultra/feed/</wfw:commentRss>
+			<slash:comments>9</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The latest Telegram overhauls payments, introduces a new web app, and lets you schedule Voice Chats</title>
+		<link>https://www.androidpolice.com/2021/04/26/the-latest-telegram-overhauls-payments-introduces-a-new-web-app-and-lets-you-schedule-voice-chats/</link>
+					<comments>https://www.androidpolice.com/2021/04/26/the-latest-telegram-overhauls-payments-introduces-a-new-web-app-and-lets-you-schedule-voice-chats/#comments</comments>
+		
+		<dc:creator><![CDATA[Ryne Hager]]></dc:creator>
+		<pubDate>Mon, 26 Apr 2021 20:21:44 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[animations]]></category>
+		<category><![CDATA[fast forward]]></category>
+		<category><![CDATA[Payments 2.0]]></category>
+		<category><![CDATA[pinch-to-zoom]]></category>
+		<category><![CDATA[rewind]]></category>
+		<category><![CDATA[Scheduled voice chats]]></category>
+		<category><![CDATA[telegram]]></category>
+		<category><![CDATA[Telegram Web K]]></category>
+		<category><![CDATA[Telegram Web Z]]></category>
+		<category><![CDATA[Telegram Webapp]]></category>
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=774734</guid>
+
+					<description><![CDATA[Plus a whole lot more
+<p><a href="https://www.androidpolice.com/wp-content/uploads/2021/04/26/5dc5b1f30fa97ec631.jpg" class=" no-style"><img loading="lazy" class="size-hero-size wp-image-774760" src="https://www.androidpolice.com/wp-content/uploads/2021/04/26/5dc5b1f30fa97ec631-728x438.jpg" alt="" width="728" height="438" srcset="https://www.androidpolice.com/wp-content/uploads/2021/04/26/5dc5b1f30fa97ec631-728x438.jpg 728w, https://www.androidpolice.com/wp-content/uploads/2021/04/26/5dc5b1f30fa97ec631-329x198.jpg 329w, https://www.androidpolice.com/wp-content/uploads/2021/04/26/5dc5b1f30fa97ec631-668x402.jpg 668w, https://www.androidpolice.com/wp-content/uploads/2021/04/26/5dc5b1f30fa97ec631-161x97.jpg 161w, https://www.androidpolice.com/wp-content/uploads/2021/04/26/5dc5b1f30fa97ec631-217x131.jpg 217w, https://www.androidpolice.com/wp-content/uploads/2021/04/26/5dc5b1f30fa97ec631.jpg 1256w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
+<p>Telegram is rolling out a chunky new update, which includes a bit "Payments 2.0" overhaul, scheduled voice chats (plus "mini profiles" for voice chats), improvements to photos&#160;<em>and</em> videos, and new animations for the Android app. On top of that, Telegram is also launching&#160;<em>two</em> new web versions of its app, matching what we learned a <a href="https://www.androidpolice.com/2021/04/16/telegram-is-working-on-not-one-but-two-sleek-new-web-apps/">couple weeks back</a>.</p>
+<p><span id="more-774734"></span></p>
+<p>The news comes courtesy of <a href="https://telegram.org/blog/payments-2-0-scheduled-voice-chats">Telegram's blog</a>&#160;and dives into each of the new changes.</p><div class=clear></div> <a href="https://www.androidpolice.com/2021/04/26/the-latest-telegram-overhauls-payments-introduces-a-new-web-app-and-lets-you-schedule-voice-chats/" class="read-more">Read More </a><p><a href='https://www.androidpolice.com/2021/04/26/the-latest-telegram-overhauls-payments-introduces-a-new-web-app-and-lets-you-schedule-voice-chats/'>The latest Telegram overhauls payments, introduces a new web app, and lets you schedule Voice Chats</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://www.androidpolice.com/2021/04/26/the-latest-telegram-overhauls-payments-introduces-a-new-web-app-and-lets-you-schedule-voice-chats/feed/</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Spotify is about to get all up in your Facebook app</title>
+		<link>https://www.androidpolice.com/2021/04/26/spotify-is-about-to-get-all-up-in-your-facebook-app/</link>
+					<comments>https://www.androidpolice.com/2021/04/26/spotify-is-about-to-get-all-up-in-your-facebook-app/#comments</comments>
+		
+		<dc:creator><![CDATA[Michael Crider]]></dc:creator>
+		<pubDate>Mon, 26 Apr 2021 20:08:49 +0000</pubDate>
+				<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Spotify]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[mini-player]]></category>
+		<category><![CDATA[spotify]]></category>
+		<category><![CDATA[streaming music]]></category>
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=774741</guid>
+
+					<description><![CDATA[A new mini-player will play music and podcasts without leaving Facebook
+<p><a href="https://www.androidpolice.com/wp-content/uploads/2021/04/26/facebook-spotify.jpg" class=" no-style"><img loading="lazy" class="wp-image-774749 size-hero-size" src="https://www.androidpolice.com/wp-content/uploads/2021/04/26/facebook-spotify-728x410.jpg" alt="" width="728" height="410" srcset="https://www.androidpolice.com/wp-content/uploads/2021/04/26/facebook-spotify-728x410.jpg 728w, https://www.androidpolice.com/wp-content/uploads/2021/04/26/facebook-spotify-329x185.jpg 329w, https://www.androidpolice.com/wp-content/uploads/2021/04/26/facebook-spotify-668x376.jpg 668w, https://www.androidpolice.com/wp-content/uploads/2021/04/26/facebook-spotify-161x91.jpg 161w, https://www.androidpolice.com/wp-content/uploads/2021/04/26/facebook-spotify-217x122.jpg 217w, https://www.androidpolice.com/wp-content/uploads/2021/04/26/facebook-spotify.jpg 1920w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
+<p>Spotify and Facebook are two of the biggest players in the mobile software market. But being a streaming music platform and a tool for the slow, screaming destruction of civil society (respectively), they don't have a lot of crossover. That's about to end. This morning Spotify announced that it's going to allow its users to listen to Spotify music and podcasts via a mini-player directly in the Facebook app on Android and iOS.</p><div class=clear></div> <a href="https://www.androidpolice.com/2021/04/26/spotify-is-about-to-get-all-up-in-your-facebook-app/" class="read-more">Read More </a><p><a href='https://www.androidpolice.com/2021/04/26/spotify-is-about-to-get-all-up-in-your-facebook-app/'>Spotify is about to get all up in your Facebook app</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://www.androidpolice.com/2021/04/26/spotify-is-about-to-get-all-up-in-your-facebook-app/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		<enclosure url="https://www.androidpolice.com/wp-content/uploads/2021/04/26/Boombox-Project-Landscape.mp4" length="16237000" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>Spend some of the money you saved on the gym last year to get a Fitbit Versa 3 — now at an all-time low</title>
+		<link>https://www.androidpolice.com/2021/04/26/spend-some-of-the-money-you-saved-on-the-gym-last-year-to-get-a-fitbit-versa-3-now-at-an-all-time-low/</link>
+					<comments>https://www.androidpolice.com/2021/04/26/spend-some-of-the-money-you-saved-on-the-gym-last-year-to-get-a-fitbit-versa-3-now-at-an-all-time-low/#comments</comments>
+		
+		<dc:creator><![CDATA[Will Sattelberg]]></dc:creator>
+		<pubDate>Mon, 26 Apr 2021 19:07:58 +0000</pubDate>
+				<category><![CDATA[Deals]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Smartwatches & Wearables]]></category>
+		<category><![CDATA[amazon]]></category>
+		<category><![CDATA[deals]]></category>
+		<category><![CDATA[fitbit]]></category>
+		<category><![CDATA[Fitbit Versa 3]]></category>
+		<category><![CDATA[Versa 3]]></category>
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=774714</guid>
+
+					<description><![CDATA[Complete with a built-in GPS and support for Google Assistant
+<p><a href="https://www.androidpolice.com/wp-content/uploads/2020/09/07/fitbit-versa-3-scaled.jpg" class=" no-style"><img loading="lazy" class="alignnone size-hero-size wp-image-714636" src="https://www.androidpolice.com/wp-content/uploads/2020/09/07/fitbit-versa-3-728x485.jpg" alt="" width="728" height="485" srcset="https://www.androidpolice.com/wp-content/uploads/2020/09/07/fitbit-versa-3-728x485.jpg 728w, https://www.androidpolice.com/wp-content/uploads/2020/09/07/fitbit-versa-3-329x219.jpg 329w, https://www.androidpolice.com/wp-content/uploads/2020/09/07/fitbit-versa-3-668x445.jpg 668w, https://www.androidpolice.com/wp-content/uploads/2020/09/07/fitbit-versa-3-161x107.jpg 161w, https://www.androidpolice.com/wp-content/uploads/2020/09/07/fitbit-versa-3-217x145.jpg 217w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
+<p>Fitbit's lineup of trackers remains some of the only good wearables for Android. Now that the <a href="https://www.androidpolice.com/2021/01/15/google-says-its-acquisition-of-fitbit-is-complete/">company is under Google's ownership</a>, you can expect that partnership to improve over time. Last year's Versa 3 is one of its best devices yet, and it's hit an all-new low on Amazon today, making it the perfect opportunity to get moving as we head into the summer.</p>
+<p><span id="more-774714"></span></p>
+<p>Our <a href="https://www.androidpolice.com/2021/01/10/fitbit-versa-3-review/">review of the Versa 3 called it the Fitbit to get</a>, providing most of the high-end features from the flagship Sense smartwatch at a much lower price.</p><div class=clear></div> <a href="https://www.androidpolice.com/2021/04/26/spend-some-of-the-money-you-saved-on-the-gym-last-year-to-get-a-fitbit-versa-3-now-at-an-all-time-low/" class="read-more">Read More </a><p><a href='https://www.androidpolice.com/2021/04/26/spend-some-of-the-money-you-saved-on-the-gym-last-year-to-get-a-fitbit-versa-3-now-at-an-all-time-low/'>Spend some of the money you saved on the gym last year to get a Fitbit Versa 3 — now at an all-time low</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://www.androidpolice.com/2021/04/26/spend-some-of-the-money-you-saved-on-the-gym-last-year-to-get-a-fitbit-versa-3-now-at-an-all-time-low/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Spotify&#039;s price hike is coming to the US, too, but only for family plans</title>
+		<link>https://www.androidpolice.com/2021/04/26/the-dreaded-spotify-price-hike-has-arrived-in-the-uk-and-europe/</link>
+					<comments>https://www.androidpolice.com/2021/04/26/the-dreaded-spotify-price-hike-has-arrived-in-the-uk-and-europe/#comments</comments>
+		
+		<dc:creator><![CDATA[Scott Scrivens]]></dc:creator>
+		<pubDate>Mon, 26 Apr 2021 18:47:00 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Spotify]]></category>
+		<category><![CDATA[price hike]]></category>
+		<category><![CDATA[price increase]]></category>
+		<category><![CDATA[spotify]]></category>
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=774602&#038;uniqid=60870aed99573</guid>
+
+					<description><![CDATA[For now
+<ul class="list-unstyled list-banners"><li>
+        <a class="banner banner-update" title="View the 2021/04/26 11:48am PDT Update" href="https://www.androidpolice.com/2021/04/26/the-dreaded-spotify-price-hike-has-arrived-in-the-uk-and-europe/#1">
+        <span class="update-header">Update</span>
+        <div class="ellipsize">
+        <span class="update-title">US, per-market price changes</span>
+        </div>
+        </a>
+        </li></ul><p><a href="https://www.androidpolice.com/wp-content/uploads/2020/09/28/SpotifySimpleHero-01.png" class=" no-style"><img loading="lazy" class="alignnone size-hero-size wp-image-711945" src="https://www.androidpolice.com/wp-content/uploads/2020/09/28/SpotifySimpleHero-01-728x410.png" alt="" width="728" height="410" srcset="https://www.androidpolice.com/wp-content/uploads/2020/09/28/SpotifySimpleHero-01-728x410.png 728w, https://www.androidpolice.com/wp-content/uploads/2020/09/28/SpotifySimpleHero-01-329x185.png 329w, https://www.androidpolice.com/wp-content/uploads/2020/09/28/SpotifySimpleHero-01-668x376.png 668w, https://www.androidpolice.com/wp-content/uploads/2020/09/28/SpotifySimpleHero-01-161x91.png 161w, https://www.androidpolice.com/wp-content/uploads/2020/09/28/SpotifySimpleHero-01-217x122.png 217w, https://www.androidpolice.com/wp-content/uploads/2020/09/28/SpotifySimpleHero-01.png 1404w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
+<p>After months of rumors about a potential Spotify price hike, it's finally happening. Affected customers have been sent emails with the bad news, and the new pricing model is set to come into effect from June 2021 for current subscribers and from the end of April for new users. The change impacts Premium Student, Duo, and Family plans in Europe and the UK, with your monthly fee set to go up by around &#163;1-2 (&#8364;1-3).</p><div class=clear></div> <a href="https://www.androidpolice.com/2021/04/26/the-dreaded-spotify-price-hike-has-arrived-in-the-uk-and-europe/" class="read-more">Read More </a><p><a href='https://www.androidpolice.com/2021/04/26/the-dreaded-spotify-price-hike-has-arrived-in-the-uk-and-europe/'>Spotify's price hike is coming to the US, too, but only for family plans</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://www.androidpolice.com/2021/04/26/the-dreaded-spotify-price-hike-has-arrived-in-the-uk-and-europe/feed/</wfw:commentRss>
+			<slash:comments>43</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Google and Roku are having a squabble over YouTube TV</title>
+		<link>https://www.androidpolice.com/2021/04/26/google-and-roku-are-having-a-squabble-over-youtube-tv/</link>
+					<comments>https://www.androidpolice.com/2021/04/26/google-and-roku-are-having-a-squabble-over-youtube-tv/#comments</comments>
+		
+		<dc:creator><![CDATA[Will Sattelberg]]></dc:creator>
+		<pubDate>Mon, 26 Apr 2021 17:49:01 +0000</pubDate>
+				<category><![CDATA[Google]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[roku]]></category>
+		<category><![CDATA[streaming services]]></category>
+		<category><![CDATA[streaming subscription]]></category>
+		<category><![CDATA[youtube]]></category>
+		<category><![CDATA[youtube tv]]></category>
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=774637</guid>
+
+					<description><![CDATA[And, of course, the viewers are going to be the ones to suffer
+<p><a href="https://www.androidpolice.com/wp-content/uploads/2021/04/26/8ccf5095-2f5f-4281-ad3e-eef8d65552a1.jpg" class=" no-style"><img loading="lazy" class="alignnone size-hero-size wp-image-774672" src="https://www.androidpolice.com/wp-content/uploads/2021/04/26/8ccf5095-2f5f-4281-ad3e-eef8d65552a1-728x410.jpg" alt="" width="728" height="410" srcset="https://www.androidpolice.com/wp-content/uploads/2021/04/26/8ccf5095-2f5f-4281-ad3e-eef8d65552a1-728x410.jpg 728w, https://www.androidpolice.com/wp-content/uploads/2021/04/26/8ccf5095-2f5f-4281-ad3e-eef8d65552a1-329x185.jpg 329w, https://www.androidpolice.com/wp-content/uploads/2021/04/26/8ccf5095-2f5f-4281-ad3e-eef8d65552a1-668x376.jpg 668w, https://www.androidpolice.com/wp-content/uploads/2021/04/26/8ccf5095-2f5f-4281-ad3e-eef8d65552a1-161x91.jpg 161w, https://www.androidpolice.com/wp-content/uploads/2021/04/26/8ccf5095-2f5f-4281-ad3e-eef8d65552a1-217x122.jpg 217w, https://www.androidpolice.com/wp-content/uploads/2021/04/26/8ccf5095-2f5f-4281-ad3e-eef8d65552a1.jpg 1080w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
+<p>Television has evolved a lot over the last decade, but there's one thing that has outlived the decline of cable: carriage disputes. YouTube TV might not be a "traditional" cable service, but it's still susceptible to the same issues that every distributor has faced. Today, Roku is warning users that YouTube TV could be dropped from its devices in the coming days should Google continue to pursue its new contract.</p>
+<p><span id="more-774637"></span></p>
+<p>Roku has gone public with its ongoing YouTube TV negotiations in an email sent out to its customer base this morning, and it's not holding back.</p><div class=clear></div> <a href="https://www.androidpolice.com/2021/04/26/google-and-roku-are-having-a-squabble-over-youtube-tv/" class="read-more">Read More </a><p><a href='https://www.androidpolice.com/2021/04/26/google-and-roku-are-having-a-squabble-over-youtube-tv/'>Google and Roku are having a squabble over YouTube TV</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://www.androidpolice.com/2021/04/26/google-and-roku-are-having-a-squabble-over-youtube-tv/feed/</wfw:commentRss>
+			<slash:comments>29</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to get a pair of Surface Headphones for just $82</title>
+		<link>https://www.androidpolice.com/2021/04/26/how-to-get-a-pair-of-surface-headphones-for-just-82/</link>
+					<comments>https://www.androidpolice.com/2021/04/26/how-to-get-a-pair-of-surface-headphones-for-just-82/#comments</comments>
+		
+		<dc:creator><![CDATA[Taylor Kerns]]></dc:creator>
+		<pubDate>Mon, 26 Apr 2021 17:05:40 +0000</pubDate>
+				<category><![CDATA[Deals]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[anc headphones]]></category>
+		<category><![CDATA[deals]]></category>
+		<category><![CDATA[headphones]]></category>
+		<category><![CDATA[microsoft surface headphones]]></category>
+		<category><![CDATA[Surface Headphones]]></category>
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=774658</guid>
+
+					<description><![CDATA[Download an app, save 14 bucks
+<p style="text-align: center;"><a href="https://www.androidpolice.com/wp-content/uploads/2019/04/surface-headphones-hero.jpg" class=" no-style"><img loading="lazy" class="size-hero-size wp-image-557804" src="https://www.androidpolice.com/wp-content/uploads/2019/04/surface-headphones-hero-728x410.jpg" alt="" width="728" height="410" srcset="https://www.androidpolice.com/wp-content/uploads/2019/04/surface-headphones-hero-728x410.jpg 728w, https://www.androidpolice.com/wp-content/uploads/2019/04/surface-headphones-hero-329x185.jpg 329w, https://www.androidpolice.com/wp-content/uploads/2019/04/surface-headphones-hero-768x432.jpg 768w, https://www.androidpolice.com/wp-content/uploads/2019/04/surface-headphones-hero-668x376.jpg 668w, https://www.androidpolice.com/wp-content/uploads/2019/04/surface-headphones-hero-161x91.jpg 161w, https://www.androidpolice.com/wp-content/uploads/2019/04/surface-headphones-hero-217x122.jpg 217w, https://www.androidpolice.com/wp-content/uploads/2019/04/surface-headphones-hero.jpg 1920w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
+<p>Microsoft's first-generation Surface Headphones launched at an ambitious $350. Partially due to that price, they didn't really catch on (Microsoft seemingly acknowledged this blunder by introducing the <a href="https://www.androidpolice.com/2020/07/11/microsoft-surface-headphones-2-review/">second generation</a> at an MSRP $100 lower). They're still good headphones, though &#8212; and today, you can nab a pair for just $82 <a href="https://computers.woot.com/offers/microsoft-surface-headphones-10">from Woot</a>.</p>
+<p><span id="more-774658"></span></p>
+<p>The Surface Headphones feature good (but not class-leading) sound quality and noise canceling, plus a striking design and intuitive control wheels for both volume and ANC.</p><div class=clear></div> <a href="https://www.androidpolice.com/2021/04/26/how-to-get-a-pair-of-surface-headphones-for-just-82/" class="read-more">Read More </a><p><a href='https://www.androidpolice.com/2021/04/26/how-to-get-a-pair-of-surface-headphones-for-just-82/'>How to get a pair of Surface Headphones for just $82</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://www.androidpolice.com/2021/04/26/how-to-get-a-pair-of-surface-headphones-for-just-82/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chrome 91 Beta launches with prettier buttons, OTP autofill improvements, and battery-saving optimizations</title>
+		<link>https://www.androidpolice.com/2021/04/26/chrome-91/</link>
+					<comments>https://www.androidpolice.com/2021/04/26/chrome-91/#comments</comments>
+		
+		<dc:creator><![CDATA[Manuel Vonau]]></dc:creator>
+		<pubDate>Mon, 26 Apr 2021 16:37:50 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[autofill]]></category>
+		<category><![CDATA[battery life]]></category>
+		<category><![CDATA[chrome 91]]></category>
+		<category><![CDATA[chrome 91 beta]]></category>
+		<category><![CDATA[copy and paste]]></category>
+		<category><![CDATA[file system access api]]></category>
+		<category><![CDATA[find in page]]></category>
+		<category><![CDATA[form control]]></category>
+		<category><![CDATA[gravity sensor]]></category>
+		<category><![CDATA[gravitysensor api]]></category>
+		<category><![CDATA[OTP]]></category>
+		<category><![CDATA[progressive web apps]]></category>
+		<category><![CDATA[pwa]]></category>
+		<category><![CDATA[reading list]]></category>
+		<category><![CDATA[sms otp]]></category>
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=774598</guid>
+
+					<description><![CDATA[And much more!
+<p style="text-align: center;"><a href="https://www.androidpolice.com/wp-content/uploads/2016/11/nexus2cee_chrome.png" class=" no-style"><img loading="lazy" class="size-hero-size wp-image-395027" src="https://www.androidpolice.com/wp-content/uploads/2016/11/nexus2cee_chrome-728x300.png" alt="" width="668" height="275" data-ap-uploaded-image="cjabVsW" srcset="https://www.androidpolice.com/wp-content/uploads/2016/11/nexus2cee_chrome.png 728w, https://www.androidpolice.com/wp-content/uploads/2016/11/nexus2cee_chrome-329x136.png 329w, https://www.androidpolice.com/wp-content/uploads/2016/11/nexus2cee_chrome-668x275.png 668w, https://www.androidpolice.com/wp-content/uploads/2016/11/nexus2cee_chrome-161x66.png 161w, https://www.androidpolice.com/wp-content/uploads/2016/11/nexus2cee_chrome-217x89.png 217w" sizes="(max-width: 668px) 100vw, 668px" /></a></p>
+<p>The latest beta of Chrome, version 91, has just hit the first few phones, and while you might not notice too many differences on the surface, there are quite some things going on if you know where to look. The most significant visual changes you'll see on Android are probably the redesigned website buttons and forms, like those you can see in the <a href="https://www.androidpolice.com/polls/">weekend polls</a> of our own website. But there's more going on.</p><div class=clear></div> <a href="https://www.androidpolice.com/2021/04/26/chrome-91/" class="read-more">Read More </a><p><a href='https://www.androidpolice.com/2021/04/26/chrome-91/'>Chrome 91 Beta launches with prettier buttons, OTP autofill improvements, and battery-saving optimizations</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://www.androidpolice.com/2021/04/26/chrome-91/feed/</wfw:commentRss>
+			<slash:comments>11</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>18 temporarily free and 41 on-sale apps and games for Monday</title>
+		<link>https://www.androidpolice.com/2021/04/26/android-app-game-sales-april-26-2021/</link>
+					<comments>https://www.androidpolice.com/2021/04/26/android-app-game-sales-april-26-2021/#respond</comments>
+		
+		<dc:creator><![CDATA[Matthew Sholtz]]></dc:creator>
+		<pubDate>Mon, 26 Apr 2021 16:08:24 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Deals]]></category>
+		<category><![CDATA[Games]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[android app sales]]></category>
+		<category><![CDATA[app sales]]></category>
+		<category><![CDATA[apps]]></category>
+		<category><![CDATA[deal]]></category>
+		<category><![CDATA[deal alert]]></category>
+		<category><![CDATA[free]]></category>
+		<category><![CDATA[free apps]]></category>
+		<category><![CDATA[free games]]></category>
+		<category><![CDATA[game sales]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[google play]]></category>
+		<category><![CDATA[icon packs]]></category>
+		<category><![CDATA[play store]]></category>
+		<category><![CDATA[play store free]]></category>
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=774632</guid>
+
+					<description><![CDATA[Don&#039;t miss out on the sales for The Last Remnant Remastered, Baldur&#039;s Gate II, and Kingdom Rush Frontiers
+<p><a href="https://www.androidpolice.com/wp-content/uploads/2021/04/26/monday.png" class=" no-style"><img loading="lazy" class="alignnone size-hero-size wp-image-774633" src="https://www.androidpolice.com/wp-content/uploads/2021/04/26/monday-728x291.png" alt="" width="728" height="291" srcset="https://www.androidpolice.com/wp-content/uploads/2021/04/26/monday-728x291.png 728w, https://www.androidpolice.com/wp-content/uploads/2021/04/26/monday-329x131.png 329w, https://www.androidpolice.com/wp-content/uploads/2021/04/26/monday-668x267.png 668w, https://www.androidpolice.com/wp-content/uploads/2021/04/26/monday-161x64.png 161w, https://www.androidpolice.com/wp-content/uploads/2021/04/26/monday-217x87.png 217w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
+<p>Welcome to Monday, everyone. It was a busy weekend, and so there are many quality sales available today, which means I have a couple of standouts to share. First up is <a href="https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.thelastremnantremastered">The Last Remnant Remastered</a>, a Square Enix port of the PC RPG. Next up is <a href="https://play.google.com/store/apps/details?id=com.beamdog.baldursgateIIenhancededition">Baldur's Gate II</a>, a quality CRPG that basically defined the genre. Last but not least is <a href="https://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrushfrontiers">Kingdom Rush Frontiers</a>, an enjoyable tower defense game.</p><div class=clear></div> <a href="https://www.androidpolice.com/2021/04/26/android-app-game-sales-april-26-2021/" class="read-more">Read More </a><p><a href='https://www.androidpolice.com/2021/04/26/android-app-game-sales-april-26-2021/'>18 temporarily free and 41 on-sale apps and games for Monday</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://www.androidpolice.com/2021/04/26/android-app-game-sales-april-26-2021/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Samsung&#039;s Apple-looking Bluetooth keyboard for DeX is now official</title>
+		<link>https://www.androidpolice.com/2021/04/26/samsungs-new-bluetooth-keyboard-looks-like-it-came-from-apple-but-its-made-for-dex/</link>
+					<comments>https://www.androidpolice.com/2021/04/26/samsungs-new-bluetooth-keyboard-looks-like-it-came-from-apple-but-its-made-for-dex/#comments</comments>
+		
+		<dc:creator><![CDATA[Michael Crider]]></dc:creator>
+		<pubDate>Mon, 26 Apr 2021 15:27:00 +0000</pubDate>
+				<category><![CDATA[Accessories]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Samsung]]></category>
+		<category><![CDATA[accessories]]></category>
+		<category><![CDATA[bluetooth keyboard]]></category>
+		<category><![CDATA[dex]]></category>
+		<category><![CDATA[keyboard]]></category>
+		<category><![CDATA[samsung keyboard]]></category>
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=772832&#038;uniqid=6086dbe53db7b</guid>
+
+					<description><![CDATA[It&#039;ll work with just about anything, but using it with Galaxy gadgets unlocks some more functions
+<ul class="list-unstyled list-banners"><li>
+        <a class="banner banner-update" title="View the 2021/04/26 8:27am PDT Update" href="https://www.androidpolice.com/2021/04/26/samsungs-new-bluetooth-keyboard-looks-like-it-came-from-apple-but-its-made-for-dex/#1">
+        <span class="update-header">Update</span>
+        <div class="ellipsize">
+        <span class="update-title">Official</span>
+        </div>
+        </a>
+        </li></ul><p><a href="https://www.androidpolice.com/wp-content/uploads/2021/04/19/levant-feature-pair-multiple-dev.jpg" class=" no-style"><img loading="lazy" class="alignnone wp-image-772837 size-hero-size" src="https://www.androidpolice.com/wp-content/uploads/2021/04/19/levant-feature-pair-multiple-dev-728x440.jpg" alt="" width="728" height="440" srcset="https://www.androidpolice.com/wp-content/uploads/2021/04/19/levant-feature-pair-multiple-dev-728x440.jpg 728w, https://www.androidpolice.com/wp-content/uploads/2021/04/19/levant-feature-pair-multiple-dev-329x199.jpg 329w, https://www.androidpolice.com/wp-content/uploads/2021/04/19/levant-feature-pair-multiple-dev-668x404.jpg 668w, https://www.androidpolice.com/wp-content/uploads/2021/04/19/levant-feature-pair-multiple-dev-161x97.jpg 161w, https://www.androidpolice.com/wp-content/uploads/2021/04/19/levant-feature-pair-multiple-dev-217x131.jpg 217w, https://www.androidpolice.com/wp-content/uploads/2021/04/19/levant-feature-pair-multiple-dev.jpg 1440w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
+<p>Samsung is introducing a new Bluetooth keyboard designed for those who work on the go. Compatible with your desktop, tablet, phone, and whatever else you can think of, the Smart Keyboard Trio 500 apes recent designs from Apple and Logitech with a triple-device quick switch function, but it&#8217;s built from the ground up with the company&#8217;s DeX software in mind.<span id="more-772832"></span></p>
+<p>Taking a glance at the Trio 500, you might mistake it for an Apple Magic keyboard, or <a href="https://www.amazon.com/dp/B00PIMKN1Q?tag=androidpolice-20">an Anker design built along the same lines</a>.</p><div class=clear></div> <a href="https://www.androidpolice.com/2021/04/26/samsungs-new-bluetooth-keyboard-looks-like-it-came-from-apple-but-its-made-for-dex/" class="read-more">Read More </a><p><a href='https://www.androidpolice.com/2021/04/26/samsungs-new-bluetooth-keyboard-looks-like-it-came-from-apple-but-its-made-for-dex/'>Samsung's Apple-looking Bluetooth keyboard for DeX is now official</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://www.androidpolice.com/2021/04/26/samsungs-new-bluetooth-keyboard-looks-like-it-came-from-apple-but-its-made-for-dex/feed/</wfw:commentRss>
+			<slash:comments>20</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Samsung&#039;s Galaxy Buds Pro borrow a handy feature from their predecessor</title>
+		<link>https://www.androidpolice.com/2021/04/26/samsungs-galaxy-buds-pro-borrow-a-handy-feature-from-their-predecessor/</link>
+					<comments>https://www.androidpolice.com/2021/04/26/samsungs-galaxy-buds-pro-borrow-a-handy-feature-from-their-predecessor/#comments</comments>
+		
+		<dc:creator><![CDATA[Prasham Parikh]]></dc:creator>
+		<pubDate>Mon, 26 Apr 2021 12:45:44 +0000</pubDate>
+				<category><![CDATA[Galaxy Buds Pro]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Samsung]]></category>
+		<category><![CDATA[ota]]></category>
+		<category><![CDATA[Samsung Galaxy Buds Pro]]></category>
+		<category><![CDATA[truly wireless earbuds]]></category>
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=774599</guid>
+
+					<description><![CDATA[Carried forward from the Galaxy Buds+
+<p><a href="https://www.androidpolice.com/wp-content/uploads/2021/01/14/28_galaxybudspro_lifestyle_IP68_violet_201230073429-scaled.jpg" class=" no-style"><img loading="lazy" class="size-hero-size wp-image-752513" src="https://www.androidpolice.com/wp-content/uploads/2021/01/14/28_galaxybudspro_lifestyle_IP68_violet_201230073429-728x485.jpg" alt="" width="728" height="485" srcset="https://www.androidpolice.com/wp-content/uploads/2021/01/14/28_galaxybudspro_lifestyle_IP68_violet_201230073429-728x485.jpg 728w, https://www.androidpolice.com/wp-content/uploads/2021/01/14/28_galaxybudspro_lifestyle_IP68_violet_201230073429-329x219.jpg 329w, https://www.androidpolice.com/wp-content/uploads/2021/01/14/28_galaxybudspro_lifestyle_IP68_violet_201230073429-668x445.jpg 668w, https://www.androidpolice.com/wp-content/uploads/2021/01/14/28_galaxybudspro_lifestyle_IP68_violet_201230073429-161x107.jpg 161w, https://www.androidpolice.com/wp-content/uploads/2021/01/14/28_galaxybudspro_lifestyle_IP68_violet_201230073429-217x145.jpg 217w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
+<p>The Samsung Galaxy Buds Pro are simply among the best truly wireless earbuds you can get for your Android phone. However, <a href="https://www.androidpolice.com/2021/02/05/galaxy-buds-pro-review-you-can-finally-have-your-airpods-pro-for-android/#The_Not_So_Good:~:text=They%20really%20aren't%20great!">as David noted in his review</a>, the double and triple-tap controls were a bit inconsistent. While Samsung doesn't appear to have fixed that (if it even can), it is introducing a new way to control the volume with a new software update.</p>
+<p><span id="more-774599"></span></p>
+<p>The feature is called "Double tap earbud edge" and sits within the Labs menu in the Galaxy Wearable app.</p><div class=clear></div> <a href="https://www.androidpolice.com/2021/04/26/samsungs-galaxy-buds-pro-borrow-a-handy-feature-from-their-predecessor/" class="read-more">Read More </a><p><a href='https://www.androidpolice.com/2021/04/26/samsungs-galaxy-buds-pro-borrow-a-handy-feature-from-their-predecessor/'>Samsung's Galaxy Buds Pro borrow a handy feature from their predecessor</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://www.androidpolice.com/2021/04/26/samsungs-galaxy-buds-pro-borrow-a-handy-feature-from-their-predecessor/feed/</wfw:commentRss>
+			<slash:comments>17</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>There&#039;s a new BMW-branded phone with a huge vapor cooling chamber that no one asked for</title>
+		<link>https://www.androidpolice.com/2021/04/26/iqoos-bmw-branded-phone-is-predictably-all-about-power/</link>
+					<comments>https://www.androidpolice.com/2021/04/26/iqoos-bmw-branded-phone-is-predictably-all-about-power/#comments</comments>
+		
+		<dc:creator><![CDATA[Prasham Parikh]]></dc:creator>
+		<pubDate>Mon, 26 Apr 2021 10:20:36 +0000</pubDate>
+				<category><![CDATA[iQOO 7]]></category>
+		<category><![CDATA[iQOO 7 Legend]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[IQOO]]></category>
+		<category><![CDATA[snapdragon 870]]></category>
+		<category><![CDATA[snapdragon 888]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[vivo]]></category>
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=774570</guid>
+
+					<description><![CDATA[Though it should keep the Snapdragon 888 running cool
+<p><a href="https://www.androidpolice.com/wp-content/uploads/2021/04/25/Screenshot-2021-04-26-at-12.11.06-PM.png" class=" no-style"><img loading="lazy" class="size-hero-size wp-image-774575" src="https://www.androidpolice.com/wp-content/uploads/2021/04/25/Screenshot-2021-04-26-at-12.11.06-PM-728x405.png" alt="" width="728" height="405" srcset="https://www.androidpolice.com/wp-content/uploads/2021/04/25/Screenshot-2021-04-26-at-12.11.06-PM-728x405.png 728w, https://www.androidpolice.com/wp-content/uploads/2021/04/25/Screenshot-2021-04-26-at-12.11.06-PM-329x183.png 329w, https://www.androidpolice.com/wp-content/uploads/2021/04/25/Screenshot-2021-04-26-at-12.11.06-PM-668x372.png 668w, https://www.androidpolice.com/wp-content/uploads/2021/04/25/Screenshot-2021-04-26-at-12.11.06-PM-161x90.png 161w, https://www.androidpolice.com/wp-content/uploads/2021/04/25/Screenshot-2021-04-26-at-12.11.06-PM-217x121.png 217w, https://www.androidpolice.com/wp-content/uploads/2021/04/25/Screenshot-2021-04-26-at-12.11.06-PM.png 1776w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
+<p>Depending on where you live in the world, you may or may not have heard of Vivo's sub-brand iQOO. The company is focused on making performance-driven phones and has unveiled two new ones for global markets &#8212; the iQOO 7 and the BMW-branded iQOO 7 Legend. They both offer top-end chipsets at jaw-droppingly low prices.<span id="more-774570"></span></p>
+<p>There's a lot in common between the phones, but there are some key differences. The 7 Legend, designed in partnership with BMW M Motorsports, features the iconic tri-color racing stripes, whereas the standard variant has a more discreet single-tone back.</p><div class=clear></div> <a href="https://www.androidpolice.com/2021/04/26/iqoos-bmw-branded-phone-is-predictably-all-about-power/" class="read-more">Read More </a><p><a href='https://www.androidpolice.com/2021/04/26/iqoos-bmw-branded-phone-is-predictably-all-about-power/'>There's a new BMW-branded phone with a huge vapor cooling chamber that no one asked for</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://www.androidpolice.com/2021/04/26/iqoos-bmw-branded-phone-is-predictably-all-about-power/feed/</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Get the Chrome 91 Beta here (APK Download)</title>
+		<link>https://www.androidpolice.com/2021/04/26/you-can-download-chrome-91-beta-right-now/</link>
+					<comments>https://www.androidpolice.com/2021/04/26/you-can-download-chrome-91-beta-right-now/#comments</comments>
+		
+		<dc:creator><![CDATA[Manuel Vonau]]></dc:creator>
+		<pubDate>Mon, 26 Apr 2021 09:21:17 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Chrome]]></category>
+		<category><![CDATA[Downloads]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[apk download]]></category>
+		<category><![CDATA[chrome 91]]></category>
+		<category><![CDATA[chrome 91 beta]]></category>
+		<category><![CDATA[chrome 91 download]]></category>
+		<category><![CDATA[download]]></category>
+		<category><![CDATA[form]]></category>
+		<category><![CDATA[radio button]]></category>
+		<category><![CDATA[redesigned forms]]></category>
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=774589</guid>
+
+					<description><![CDATA[Coming with better visuals for websites using forms and buttons
+<p style="text-align: center;"><a href="https://www.androidpolice.com/wp-content/uploads/2021/01/29/chrome-beta-hero.png" class=" no-style"><img loading="lazy" class="size-hero-size wp-image-755712" src="https://www.androidpolice.com/wp-content/uploads/2021/01/29/chrome-beta-hero-728x409.png" alt="" width="728" height="409" srcset="https://www.androidpolice.com/wp-content/uploads/2021/01/29/chrome-beta-hero-728x409.png 728w, https://www.androidpolice.com/wp-content/uploads/2021/01/29/chrome-beta-hero-329x185.png 329w, https://www.androidpolice.com/wp-content/uploads/2021/01/29/chrome-beta-hero-668x375.png 668w, https://www.androidpolice.com/wp-content/uploads/2021/01/29/chrome-beta-hero-161x90.png 161w, https://www.androidpolice.com/wp-content/uploads/2021/01/29/chrome-beta-hero-217x122.png 217w, https://www.androidpolice.com/wp-content/uploads/2021/01/29/chrome-beta-hero.png 1557w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
+<p>Like clockwork, Google <a href="https://blog.chromium.org/2021/04/chrome-91-handwriting-recognition-webxr.html">has just released</a> the latest Chrome Beta, version 91. It brings a slew of visual changes to websites using fillable forms and buttons, a GravitySensor interface so web apps can more easily implement motion-controlled interactions, and a lot of other, smaller changes. You can download the latest version of the Android browser right here, over at <a href="https://www.apkmirror.com/apk/google-inc/chrome-beta/chrome-beta-91-0-4472-16-release/">APK Mirror</a>.</p>
+<p><span id="more-774589"></span></p>
+<p>Chrome 91 doesn't seem to change too much on the surface, but if you visit a site or an article with forms or buttons, you might instantly notice the more modern look.</p><div class=clear></div> <a href="https://www.androidpolice.com/2021/04/26/you-can-download-chrome-91-beta-right-now/" class="read-more">Read More </a><p><a href='https://www.androidpolice.com/2021/04/26/you-can-download-chrome-91-beta-right-now/'>Get the Chrome 91 Beta here (APK Download)</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://www.androidpolice.com/2021/04/26/you-can-download-chrome-91-beta-right-now/feed/</wfw:commentRss>
+			<slash:comments>14</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Google&#039;s ads for this year&#039;s Oscars had more emotion than half the nominees</title>
+		<link>https://www.androidpolice.com/2021/04/25/im-not-crying-youre-crying-at-googles-latest-tear-jerker-search-videos/</link>
+					<comments>https://www.androidpolice.com/2021/04/25/im-not-crying-youre-crying-at-googles-latest-tear-jerker-search-videos/#comments</comments>
+		
+		<dc:creator><![CDATA[Michael Crider]]></dc:creator>
+		<pubDate>Mon, 26 Apr 2021 02:02:42 +0000</pubDate>
+				<category><![CDATA[Google]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[AR animals]]></category>
+		<category><![CDATA[captions]]></category>
+		<category><![CDATA[children]]></category>
+		<category><![CDATA[commercial]]></category>
+		<category><![CDATA[deaf]]></category>
+		<category><![CDATA[google search]]></category>
+		<category><![CDATA[search]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=774509</guid>
+
+					<description><![CDATA[I&#039;m not crying, you&#039;re crying
+<p><a href="https://www.androidpolice.com/wp-content/uploads/2021/04/25/google-search-videos.jpg" class=" no-style"><img loading="lazy" class="alignnone wp-image-774524 size-hero-size" src="https://www.androidpolice.com/wp-content/uploads/2021/04/25/google-search-videos-728x410.jpg" alt="" width="728" height="410" srcset="https://www.androidpolice.com/wp-content/uploads/2021/04/25/google-search-videos-728x410.jpg 728w, https://www.androidpolice.com/wp-content/uploads/2021/04/25/google-search-videos-329x185.jpg 329w, https://www.androidpolice.com/wp-content/uploads/2021/04/25/google-search-videos-668x376.jpg 668w, https://www.androidpolice.com/wp-content/uploads/2021/04/25/google-search-videos-161x91.jpg 161w, https://www.androidpolice.com/wp-content/uploads/2021/04/25/google-search-videos-217x122.jpg 217w, https://www.androidpolice.com/wp-content/uploads/2021/04/25/google-search-videos.jpg 1920w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
+<p>After a string of <a href="https://www.androidpolice.com/2021/03/20/this-meditation-session-is-brought-to-you-by-the-all-new-google-pixel/">increasingly</a> <a href="https://www.androidpolice.com/2021/04/04/switch-from-a-banana-to-a-pixel-phone/">weird</a> <a href="https://www.androidpolice.com/2021/04/23/this-google-pixel-video-is-even-stranger-than-it-first-appears/">videos</a> promoting the Pixel phone line, it's almost comforting to see Google return to plucking at your heartstrings. Such is the case with two new Google Search commercials posted to Google's official YouTube channel this weekend, <a href="https://www.adweek.com/convergent-tv/google-created-two-powerful-ads-thatll-make-you-emotional-during-the-oscars-broadcast/">both made</a> for the recent Oscars, and at least one of which aired during the event.</p>
+<p><span id="more-774509"></span></p>
+<p>The first is the milder of the two, and one that's certainly relatable for any parents trying to keep kids entertained for the last year.</p><div class=clear></div> <a href="https://www.androidpolice.com/2021/04/25/im-not-crying-youre-crying-at-googles-latest-tear-jerker-search-videos/" class="read-more">Read More </a><p><a href='https://www.androidpolice.com/2021/04/25/im-not-crying-youre-crying-at-googles-latest-tear-jerker-search-videos/'>Google's ads for this year's Oscars had more emotion than half the nominees</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://www.androidpolice.com/2021/04/25/im-not-crying-youre-crying-at-googles-latest-tear-jerker-search-videos/feed/</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Weekend poll: Which do you prefer — face unlock or a fingerprint scanner?</title>
+		<link>https://www.androidpolice.com/2021/04/25/weekend-poll-which-do-you-prefer-face-unlock-or-a-fingerprint-scanner/</link>
+					<comments>https://www.androidpolice.com/2021/04/25/weekend-poll-which-do-you-prefer-face-unlock-or-a-fingerprint-scanner/#comments</comments>
+		
+		<dc:creator><![CDATA[Ryne Hager]]></dc:creator>
+		<pubDate>Sun, 25 Apr 2021 20:09:18 +0000</pubDate>
+				<category><![CDATA[Polls]]></category>
+		<category><![CDATA[biometrics]]></category>
+		<category><![CDATA[poll]]></category>
+		<category><![CDATA[sidebar-poll]]></category>
+		<category><![CDATA[weekend poll]]></category>
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=774497</guid>
+
+					<description><![CDATA[<p><a href="https://www.androidpolice.com/wp-content/uploads/2021/04/25/fingerprint-sensor-vs-face-unlock-scaled.jpg" class=" no-style"><img loading="lazy" class="alignnone size-hero-size wp-image-774500" src="https://www.androidpolice.com/wp-content/uploads/2021/04/25/fingerprint-sensor-vs-face-unlock-728x485.jpg" alt="" width="728" height="485" srcset="https://www.androidpolice.com/wp-content/uploads/2021/04/25/fingerprint-sensor-vs-face-unlock-728x485.jpg 728w, https://www.androidpolice.com/wp-content/uploads/2021/04/25/fingerprint-sensor-vs-face-unlock-329x219.jpg 329w, https://www.androidpolice.com/wp-content/uploads/2021/04/25/fingerprint-sensor-vs-face-unlock-668x445.jpg 668w, https://www.androidpolice.com/wp-content/uploads/2021/04/25/fingerprint-sensor-vs-face-unlock-161x107.jpg 161w, https://www.androidpolice.com/wp-content/uploads/2021/04/25/fingerprint-sensor-vs-face-unlock-217x145.jpg 217w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
+<p>Smartphones have long since evolved beyond the need to tap in a PIN or password at a keyguard prompt, and these days you've got two broad options for biometric security: a fingerprint sensor or a face unlock system. Implementations between the two do vary, and there are several kinds, from in-display readers to capacitive sensors and from camera-based security to radar or infrared systems. You can buy phones today with either, so which is your favorite?</p><div class=clear></div> <a href="https://www.androidpolice.com/2021/04/25/weekend-poll-which-do-you-prefer-face-unlock-or-a-fingerprint-scanner/" class="read-more">Read More </a><p><a href='https://www.androidpolice.com/2021/04/25/weekend-poll-which-do-you-prefer-face-unlock-or-a-fingerprint-scanner/'>Weekend poll: Which do you prefer — face unlock or a fingerprint scanner?</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://www.androidpolice.com/2021/04/25/weekend-poll-which-do-you-prefer-face-unlock-or-a-fingerprint-scanner/feed/</wfw:commentRss>
+			<slash:comments>169</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WhatsApp may add a new option for disappearing messages soon</title>
+		<link>https://www.androidpolice.com/2021/04/25/whatsapp-may-add-a-new-option-for-disappearing-messages-soon/</link>
+					<comments>https://www.androidpolice.com/2021/04/25/whatsapp-may-add-a-new-option-for-disappearing-messages-soon/#comments</comments>
+		
+		<dc:creator><![CDATA[Michael Crider]]></dc:creator>
+		<pubDate>Sun, 25 Apr 2021 19:39:54 +0000</pubDate>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[WhatsApp]]></category>
+		<category><![CDATA[disappearing messages]]></category>
+		<category><![CDATA[messaging]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[sms]]></category>
+		<category><![CDATA[whatsapp]]></category>
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=774487</guid>
+
+					<description><![CDATA[A new 24-hour time limit has been spotted in a test build
+<p><a href="https://www.androidpolice.com/wp-content/uploads/2021/04/25/disappearing-whatsapp2.jpg" class=" no-style"><img loading="lazy" class="alignnone wp-image-774495 size-hero-size" src="https://www.androidpolice.com/wp-content/uploads/2021/04/25/disappearing-whatsapp2-728x410.jpg" alt="" width="728" height="410" srcset="https://www.androidpolice.com/wp-content/uploads/2021/04/25/disappearing-whatsapp2-728x410.jpg 728w, https://www.androidpolice.com/wp-content/uploads/2021/04/25/disappearing-whatsapp2-329x185.jpg 329w, https://www.androidpolice.com/wp-content/uploads/2021/04/25/disappearing-whatsapp2-668x376.jpg 668w, https://www.androidpolice.com/wp-content/uploads/2021/04/25/disappearing-whatsapp2-161x91.jpg 161w, https://www.androidpolice.com/wp-content/uploads/2021/04/25/disappearing-whatsapp2-217x122.jpg 217w, https://www.androidpolice.com/wp-content/uploads/2021/04/25/disappearing-whatsapp2.jpg 1920w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
+<p>Late last year WhatsApp added the option to <a href="https://www.androidpolice.com/2020/11/05/whatsapp-launches-disappearing-messages/">force your messages to disappear</a>, a la Telegram. At the time the only setting was for the messages to vanish after 7 days, but according to a leak uncovered by some fanatical fans of the platform, that choice will soon be expanding. An upcoming version of the feature with an additional 24-hour option was spotted in development. <span id="more-774487"></span></p>
+<p><a href="https://wabetainfo.com/whatsapp-is-testing-a-24-hours-option-for-disappearing-messages/">WABetaInfo</a>, a reliable source for all things WhatsApp, shows the choice in the iOS version of the app.</p><div class=clear></div> <a href="https://www.androidpolice.com/2021/04/25/whatsapp-may-add-a-new-option-for-disappearing-messages-soon/" class="read-more">Read More </a><p><a href='https://www.androidpolice.com/2021/04/25/whatsapp-may-add-a-new-option-for-disappearing-messages-soon/'>WhatsApp may add a new option for disappearing messages soon</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://www.androidpolice.com/2021/04/25/whatsapp-may-add-a-new-option-for-disappearing-messages-soon/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Registration is open for early access to The Witcher mobile game</title>
+		<link>https://www.androidpolice.com/2021/04/25/registration-is-open-for-early-access-to-the-witcher-mobile-game/</link>
+					<comments>https://www.androidpolice.com/2021/04/25/registration-is-open-for-early-access-to-the-witcher-mobile-game/#comments</comments>
+		
+		<dc:creator><![CDATA[Michael Crider]]></dc:creator>
+		<pubDate>Sun, 25 Apr 2021 18:24:36 +0000</pubDate>
+				<category><![CDATA[Games]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[AR games]]></category>
+		<category><![CDATA[monster hunter]]></category>
+		<category><![CDATA[Pokémon GO]]></category>
+		<category><![CDATA[the witcher]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=774476</guid>
+
+					<description><![CDATA[The developers say they&#039;ll be selecting players at the end of April
+<p><a href="https://www.androidpolice.com/wp-content/uploads/2021/04/25/Ezl658DXoAgXGwB.jpg" class=" no-style"><img loading="lazy" class="alignnone wp-image-774480 size-hero-size" src="https://www.androidpolice.com/wp-content/uploads/2021/04/25/Ezl658DXoAgXGwB-728x410.jpg" alt="" width="728" height="410" srcset="https://www.androidpolice.com/wp-content/uploads/2021/04/25/Ezl658DXoAgXGwB-728x410.jpg 728w, https://www.androidpolice.com/wp-content/uploads/2021/04/25/Ezl658DXoAgXGwB-329x185.jpg 329w, https://www.androidpolice.com/wp-content/uploads/2021/04/25/Ezl658DXoAgXGwB-668x376.jpg 668w, https://www.androidpolice.com/wp-content/uploads/2021/04/25/Ezl658DXoAgXGwB-161x91.jpg 161w, https://www.androidpolice.com/wp-content/uploads/2021/04/25/Ezl658DXoAgXGwB-217x122.jpg 217w, https://www.androidpolice.com/wp-content/uploads/2021/04/25/Ezl658DXoAgXGwB.jpg 1920w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
+<p>It's been eight months since CD Projekt announced that it's <a href="https://www.androidpolice.com/2020/08/26/the-witcher-monster-slayer-android/">working on an augmented reality mobile game</a> set in its beloved <em>Witcher</em> franchise. Think <em>Pokemon Go</em>, only with a lot more swearing and murder. The developers say that the game will hit Android in an early access soft launch this summer, and you can apply to be a beta tester now. <span id="more-774476"></span></p>
+<p>According to the gameplay trailer (which is quite old at this point, to be fair), the primary loop of&#160;<em>Monster Slayer</em> brings in a lot of elements from <em>The Witcher</em> on consoles.</p><div class=clear></div> <a href="https://www.androidpolice.com/2021/04/25/registration-is-open-for-early-access-to-the-witcher-mobile-game/" class="read-more">Read More </a><p><a href='https://www.androidpolice.com/2021/04/25/registration-is-open-for-early-access-to-the-witcher-mobile-game/'>Registration is open for early access to The Witcher mobile game</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://www.androidpolice.com/2021/04/25/registration-is-open-for-early-access-to-the-witcher-mobile-game/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>BlueDriver for Android: The all-inclusive digital car mechanic</title>
+		<link>https://www.androidpolice.com/2021/04/25/bluedriver-review/</link>
+					<comments>https://www.androidpolice.com/2021/04/25/bluedriver-review/#comments</comments>
+		
+		<dc:creator><![CDATA[Matt Nawrocki]]></dc:creator>
+		<pubDate>Sun, 25 Apr 2021 17:26:13 +0000</pubDate>
+				<category><![CDATA[Accessories]]></category>
+		<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Mobile Accessory Reviews]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[BlueDriver]]></category>
+		<category><![CDATA[diagnostics]]></category>
+		<category><![CDATA[OBD-II]]></category>
+		<category><![CDATA[obd2]]></category>
+		<category><![CDATA[vehicle code scanner]]></category>
+		<guid isPermaLink="false">https://www.androidpolice.com/?p=771768</guid>
+
+					<description><![CDATA[Reveal more than just basic engine codes with this scanner
+<p style="text-align: center"><a href="https://www.androidpolice.com/wp-content/uploads/2021/04/18/BlueDriver-hero-2.png" class=" no-style"><img loading="lazy" class="alignnone wp-image-772692 size-hero-size" src="https://www.androidpolice.com/wp-content/uploads/2021/04/18/BlueDriver-hero-2-728x409.png" alt="" width="728" height="409" srcset="https://www.androidpolice.com/wp-content/uploads/2021/04/18/BlueDriver-hero-2-728x409.png 728w, https://www.androidpolice.com/wp-content/uploads/2021/04/18/BlueDriver-hero-2-329x185.png 329w, https://www.androidpolice.com/wp-content/uploads/2021/04/18/BlueDriver-hero-2-668x376.png 668w, https://www.androidpolice.com/wp-content/uploads/2021/04/18/BlueDriver-hero-2-161x91.png 161w, https://www.androidpolice.com/wp-content/uploads/2021/04/18/BlueDriver-hero-2-217x122.png 217w, https://www.androidpolice.com/wp-content/uploads/2021/04/18/BlueDriver-hero-2.png 1366w" sizes="(max-width: 728px) 100vw, 728px" /></a></p>
+<p>Bluetooth helps <a href="https://www.androidpolice.com/2021/03/21/this-cheap-adapter-replaced-my-cars-crappy-bluetooth-connection/">link your smartphone with your car</a>, and already grants you the power to play music wirelessly over the sound system, pull up audio cues for road navigation, and enhance the hands-free calling experience. Now imagine also using Bluetooth to perform vehicle diagnostics without an expensive visit to your mechanic, right from the comfort and convenience of your Android device. <span id="more-771768"></span></p>
+<p>This is all thanks to the venerable OBD-II port, also known as "On-Board Diagnostic 2," that's found on virtually all modern vehicles (<a href="http://www.obdii.com/background.html#Where">per a US government mandate dating back to 1996</a>) and offers an I/O port for vehicle diagnostics, filled to the brim with untapped potential.</p><div class=clear></div> <a href="https://www.androidpolice.com/2021/04/25/bluedriver-review/" class="read-more">Read More </a><p><a href='https://www.androidpolice.com/2021/04/25/bluedriver-review/'>BlueDriver for Android: The all-inclusive digital car mechanic</a> was written by the awesome team at <a href='http://www.androidpolice.com'>Android Police</a>.</p>]]></description>
+		
+					<wfw:commentRss>https://www.androidpolice.com/2021/04/25/bluedriver-review/feed/</wfw:commentRss>
+			<slash:comments>39</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 399/434 objects using memcached
+Page Caching using memcached (Page is feed) 
+Fragment Caching 57/67 fragments using memcached
+
+Served from: www.androidpolice.com @ 2021-04-26 21:12:16 by W3 Total Cache
+-->
