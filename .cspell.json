@@ -21,7 +21,11 @@
     "sandboxed",
     "transpiled",
     "typedoc",
-    "untracked"
+    "untracked",
+    "techstack",
+    "chrono",
+    "hmain",
+    "athing"
   ],
   "flagWords": [],
   "ignorePaths": [
@@ -29,6 +33,7 @@
     "package-lock.json",
     "yarn.lock",
     "tsconfig.json",
-    "node_modules/**"
+    "node_modules/**",
+    "src/lib/parsers/**"
   ]
 }
