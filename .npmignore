@@ -1,0 +1,6 @@
+test_data
+coverage
+.vscode
+.nyc_output
+.husky
+.github

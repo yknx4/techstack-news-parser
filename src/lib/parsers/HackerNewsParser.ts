@@ -15,10 +15,10 @@ export async function HackerNewsParser(
   const newsItemsNodes = $('.athing').toArray();
   return newsItemsNodes.map((n, i) => {
     const age = $('span.age').eq(i).text().trim();
-    const ageDate = chrono.parseDate(age, ref) ?? new Date();
+    const ageDate = chrono.parseDate(age, ref);
     const result: NewsItem = {
       title: $('.title a', n).first().text().trim().replace(/\s+/g, ' '),
-      url: $('.title a', n).first().attr('href') ?? '',
+      url: $('.title a', n).first().attr('href') as string,
       createdAt: ageDate.toISOString(),
       foundAt: urlObj.hostname,
     };
