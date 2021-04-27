@@ -10,7 +10,7 @@ const parser = new Parser();
 
 function parseRedditLink(content: string): string {
   const $ = cheerio.load(`<html><body>${content}</body></html>`);
-  return $('a').eq(1).attr('href') ?? '';
+  return $('a').eq(1).attr('href') as string;
 }
 
 export async function RssParser(
@@ -28,8 +28,8 @@ export async function RssParser(
     const content = n.content ?? '';
     const url = content.includes('reddit') ? parseRedditLink(content) : n.link;
     const result: NewsItem = {
-      title: n.title ?? '',
-      url: url ?? n.link ?? '',
+      title: n.title as string,
+      url: (url ?? n.link) as string,
       createdAt: createdAt.toUTC().toISO(),
       foundAt: urlObj.hostname,
     };
